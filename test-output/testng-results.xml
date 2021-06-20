@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9372" started-at="2021-06-20T03:46:26Z" finished-at="2021-06-20T03:46:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9372" started-at="2021-06-20T03:46:26Z" finished-at="2021-06-20T03:46:36Z">
+      <class name="TestCases.RestAPI">
+        <test-method status="PASS" signature="RESTApiTest_validate_WrondCredentialsResponse()[pri:8, instance:TestCases.RestAPI@4d41cee]" name="RESTApiTest_validate_WrondCredentialsResponse" duration-ms="6164" started-at="2021-06-20T09:16:26Z" finished-at="2021-06-20T09:16:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTApiTest_validate_WrondCredentialsResponse -->
+        <test-method status="PASS" signature="RESTApiTest_validate_ConfigProperties()[pri:9, instance:TestCases.RestAPI@4d41cee]" name="RESTApiTest_validate_ConfigProperties" duration-ms="529" started-at="2021-06-20T09:16:32Z" finished-at="2021-06-20T09:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTApiTest_validate_ConfigProperties -->
+        <test-method status="PASS" signature="RESTApiTest_validate_LoginProperties()[pri:10, instance:TestCases.RestAPI@4d41cee]" name="RESTApiTest_validate_LoginProperties" duration-ms="893" started-at="2021-06-20T09:16:33Z" finished-at="2021-06-20T09:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTApiTest_validate_LoginProperties -->
+        <test-method status="PASS" signature="RESTApiTest_validate_ForgotpwdProperties()[pri:11, instance:TestCases.RestAPI@4d41cee]" name="RESTApiTest_validate_ForgotpwdProperties" duration-ms="868" started-at="2021-06-20T09:16:34Z" finished-at="2021-06-20T09:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTApiTest_validate_ForgotpwdProperties -->
+        <test-method status="PASS" signature="RESTApiTest_validate_MainComponents()[pri:12, instance:TestCases.RestAPI@4d41cee]" name="RESTApiTest_validate_MainComponents" duration-ms="883" started-at="2021-06-20T09:16:35Z" finished-at="2021-06-20T09:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RESTApiTest_validate_MainComponents -->
+      </class> <!-- TestCases.RestAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
